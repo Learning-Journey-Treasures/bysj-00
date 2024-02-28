@@ -1,6 +1,6 @@
  **[点我查看详情并获取源码](http://blog.cyrobot.top/blog/article/160)💕🤞** 
 
-# 基于SpringBoot的医院管理系统+毕业设计示例参考
+ **郑重声明：项目经过本地测试，确保可以运行。项目仅供学习和毕业设计参考~** 
 
 #### 介绍
 技术栈+工具：SpringBoot+MySQL+html +css +IDEA2022
