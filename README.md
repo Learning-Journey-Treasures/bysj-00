@@ -1,4 +1,4 @@
-![获取方式]（https://github.com/Learning-Journey-Treasures/bysj-00/blob/master/gh_17810254f3db_258.jpg）
+![获取方式]（"https://github.com/Learning-Journey-Treasures/bysj-00/blob/master/gh_17810254f3db_258.jpg"）
 
  **郑重声明：项目经过本地测试，确保可以运行。项目仅供学习和毕业设计参考~** 
 
