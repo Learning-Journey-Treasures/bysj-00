@@ -24,4 +24,9 @@
 药房管理：门诊住院取药等进行管理。
 
 
-
+![1](https://github.com/user-attachments/assets/d0b26f25-9749-401f-81ad-d443054d8ef8)
+![2](https://github.com/user-attachments/assets/549c8247-be04-4655-8e1b-313954602066)
+![3](https://github.com/user-attachments/assets/4781aa54-ee57-4ff3-8baf-59c0da0be63b)
+![4](https://github.com/user-attachments/assets/3d57bb38-ef40-4b16-af88-9ff8ef827735)
+![Uploading 4.png…]()
+![6](https://github.com/user-attachments/assets/a74a7b81-26c3-47c7-bc33-d5e33fd8bcae)
